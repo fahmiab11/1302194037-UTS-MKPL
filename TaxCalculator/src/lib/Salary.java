@@ -1,6 +1,6 @@
 package lib;
 
-public class Salary {
+public class Salary extends Employee{
     private int monthlySalary;
 	private int otherMonthlyIncome;
 	private int annualDeductible;
